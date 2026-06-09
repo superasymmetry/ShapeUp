@@ -266,4 +266,4 @@ That said, if you want realistic output for the before/after UI (not just for Fa
 
 My recommendation: test FaceLift reconstruction quality with the flat fill first. If the 3D output is clean, the ugly fill doesn't matter — it never surfaces to the user. Only invest in LaMa if reconstruction quality degrades.
 
-Want to run the end-to-end test first?
+Want to run the end-to-end test first? ya
