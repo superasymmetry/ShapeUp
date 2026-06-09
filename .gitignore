@@ -12,7 +12,7 @@ pnpm.lockyaml
 .env
 .env.local
 .env.*.local
-
+1
 # Editor
 .DS_Store
 *.swp
